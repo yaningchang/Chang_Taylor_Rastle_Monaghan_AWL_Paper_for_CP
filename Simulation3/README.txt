@@ -6,7 +6,7 @@ Created by Ya-Ning Chang, 5 Aug 2020
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Simulation 3 folder contains the files for training and testing the english reading model. 
-The compiled versions are bulit using Mac terminal, with the Mikenet libraries installed.
+The compiled versions are bulit using Mac terminal, with the Mikenet simulator installed.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Model:
