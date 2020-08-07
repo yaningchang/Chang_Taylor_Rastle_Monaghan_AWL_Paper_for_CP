@@ -7,7 +7,7 @@ Created by Ya-Ning Chang, 5 Aug 2020
 
 
 Simulation 1 folder contains all of the files needed to train and test the simulations.
-The compiled versions are bulit using Mac terminal, with the Mikenet libraries installed.
+The compiled versions are bulit using Mac terminal, with the Mikenet simulator installed.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Model (incl. examples):
