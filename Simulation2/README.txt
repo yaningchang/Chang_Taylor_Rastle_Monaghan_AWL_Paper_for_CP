@@ -7,7 +7,7 @@ Created by Ya-Ning Chang, 5 Aug 2020
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Simulation 2 folder contains the files for training and testing the artificial word leanring and english reading model. 
-
+The compiled versions are bulit using Mac terminal, with the Mikenet libraries installed.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Model:
