@@ -1,14 +1,13 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Please refer to Chang, Taylor, Rastle and Monaghan (2020) paper for the model architecture and training/testing procedures.
-The simulations are run using the Mikenet simulator
-(http://www.cnbc.cmu.edu/~mharm/research/tools/mikenet/).
+The simulations are run using the Mikenet simulator.
 
 Created by Ya-Ning Chang, 5 Aug 2020
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 Simulation 1 folder contains all of the files needed to train and test the simulations.
-
+The compiled versions are bulit using Mac terminal, with the Mikenet libraries installed.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Model (incl. examples):
